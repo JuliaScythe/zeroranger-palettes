@@ -23,6 +23,7 @@ Palettes contributed by:
 - archiebutt
 - detective_berry
 - dollsmithy
+- gaiaxyswitch
 - gooeyPhantasm
 - Jamesthe1
 - JuliaScythe
