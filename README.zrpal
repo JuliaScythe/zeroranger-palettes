@@ -1,0 +1,15 @@
+// this isn't the readme, read README.md instead. this is a colour palette called README.zrpal.
+
+palet_name = "README.ZRPAL"
+colarray[0] = 856343
+colarray[1] = 3552122
+colarray[2] = 201010
+colarray[3] = 2971466
+colarray[4] = 8184715
+colarray[5] = 7815336
+colarray[6] = 9519610
+colarray[7] = 16403993
+colarray[8] = 16425814
+colarray[9] = 15528696
+// A messy tricolour palette based loosely on the Github dark theme colour scheme
+//AUTHOR = juliascythe
