@@ -1,0 +1,14 @@
+// A greenish and pinkish palette, heavily inspired by one of Rusted Moss's areas
+palet_name = "FAIRY MOSS"
+colarray[0] = 0
+colarray[1] = 334641
+colarray[2] = 929094
+colarray[3] = 2835258
+colarray[4] = 5540466
+colarray[5] = 6440553
+colarray[6] = 10849435
+colarray[7] = 10968970
+colarray[8] = 15650261
+colarray[9] = 16777215
+break
+//AUTHOR = somebirby
