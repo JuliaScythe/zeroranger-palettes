@@ -1,0 +1,15 @@
+//Meant to use most of spooky gooey's colors but ig it can just be its own halloween thingy idk. Looks kinda cool in some places?
+
+palet_name = "SPOOEY";
+colarray[0] = 4656438;
+colarray[1] = 11162141;
+colarray[2] = 13991244;
+colarray[3] = 9067914;
+colarray[4] = 10976679;
+colarray[5] = 3945859;
+colarray[6] = 5392283;
+colarray[7] = 4082764;
+colarray[8] = 9737364;
+colarray[9] = 4271170;
+break;
+//AUTHOR = linkyminky

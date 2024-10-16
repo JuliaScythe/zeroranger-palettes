@@ -1,0 +1,14 @@
+//A gray-blue palette. Name is in reference to the grayscale Earth shown in Homestuck.
+palet_name = "POST-SCRATCH"
+colarray[0] = 0
+colarray[1] = 1513239
+colarray[2] = 3421236
+colarray[3] = 5592405
+colarray[4] = 9803157
+colarray[5] = 1053826
+colarray[6] = 4211942
+colarray[7] = 7829759
+colarray[8] = 12829695
+colarray[9] = 16777215
+break
+//AUTHOR = meme_man_

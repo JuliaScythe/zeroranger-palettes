@@ -1,0 +1,14 @@
+// A 3-D game for a 3-D World.
+palet_name = "RED VIPER"
+colarray[0] = 0
+colarray[1] = 0
+colarray[2] = 4194304
+colarray[3] = 4194304
+colarray[4] = 10485760
+colarray[5] = 15728640
+colarray[6] = 10485760
+colarray[7] = 4194304
+colarray[8] = 15728640
+colarray[9] = 15728640
+break
+//AUTHOR = majokkomoonie

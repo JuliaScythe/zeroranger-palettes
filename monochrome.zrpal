@@ -1,0 +1,14 @@
+//Basic monochromatic palette. Disclaimer: I have not played Void Stranger.
+palet_name = "MONOCHROME"
+colarray[0] = 0
+colarray[1] = 1710618
+colarray[2] = 5066061
+colarray[3] = 8421504
+colarray[4] = 11776947
+colarray[5] = 6710886
+colarray[6] = 10066329
+colarray[7] = 13421772
+colarray[8] = 16777215
+colarray[9] = 16777215
+break
+//AUTHOR = meme_man_

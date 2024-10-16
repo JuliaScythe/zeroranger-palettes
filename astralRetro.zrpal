@@ -1,0 +1,14 @@
+// The green and orange from my AstralRetro palette, meant for an MC resource pack
+palet_name = "ASTRAL RETRO"
+colarray[0] = 1315860
+colarray[1] = 475678
+colarray[2] = 1074717
+colarray[3] = 3969316
+colarray[4] = 6928437
+colarray[5] = 6033414
+colarray[6] = 10370317
+colarray[7] = 14911771
+colarray[8] = 15908702
+colarray[9] = 15132390
+break
+//AUTHOR = jamesthe1

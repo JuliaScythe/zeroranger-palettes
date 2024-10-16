@@ -1,0 +1,14 @@
+//High-contrast monochromatic palette to make bullet patterns easier to see. Disclaimer: May not actually do as advertised.
+palet_name = "HIGH CONTRAST MODE"
+colarray[0] = 0
+colarray[1] = 1710618
+colarray[2] = 3355443
+colarray[3] = 10066329
+colarray[4] = 15132390
+colarray[5] = 1710618
+colarray[6] = 3355443
+colarray[7] = 11776947
+colarray[8] = 16777215
+colarray[9] = 16777215
+break
+//AUTHOR = meme_man_

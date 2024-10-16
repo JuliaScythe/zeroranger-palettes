@@ -1,0 +1,14 @@
+//A tweaked, less saturated version of my previous GENDER REVEAL PARTY palette.
+palet_name = "TRIPLE BERRY"
+colarray[0] = 0
+colarray[1] = 2039652
+colarray[2] = 3750331
+colarray[3] = 4605653
+colarray[4] = 9211135
+colarray[5] = 7607348
+colarray[6] = 12533332
+colarray[7] = 16737920
+colarray[8] = 16165559
+colarray[9] = 16777215
+break
+//AUTHOR = meme_man_

@@ -1,0 +1,14 @@
+// A meme palette, showcasing 4 colors: red, yellow, green, and blue. I am not responsible for any eye strain.
+palet_name = "AREWHYGEEBEE"
+colarray[0] = 0
+colarray[1] = 1902136
+colarray[2] = 2496589
+colarray[3] = 23607
+colarray[4] = 2659361
+colarray[5] = 11770624
+colarray[6] = 16747044
+colarray[7] = 16728642
+colarray[8] = 16758942
+colarray[9] = 16777215
+break
+//AUTHOR = jamesthe1

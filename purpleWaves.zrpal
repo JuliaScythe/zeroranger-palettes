@@ -1,0 +1,13 @@
+        palet_name = "PURPLE WAVES"
+        colarray[0] = 0
+        colarray[1] = 2299170
+        colarray[2] = 3285294
+        colarray[3] = 2109263
+        colarray[4] = 5335520
+        colarray[5] = 5746073
+        colarray[6] = 12508631
+        colarray[7] = 9830650
+        colarray[8] = 16743158
+        colarray[9] = 16777215
+        break
+        //AUTHOR = kirbsvoid

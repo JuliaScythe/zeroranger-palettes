@@ -1,0 +1,14 @@
+// A palette based on the ace flag. Asexuals rise up
+palet_name = "ACESPACE"
+colarray[0] = 0
+colarray[1] = 3998791
+colarray[2] = 6625387
+colarray[3] = 8137856
+colarray[4] = 11752115
+colarray[5] = 6908810
+colarray[6] = 9676472
+colarray[7] = 11188413
+colarray[8] = 13560555
+colarray[9] = 16777215
+break
+//AUTHOR = jamesthe1

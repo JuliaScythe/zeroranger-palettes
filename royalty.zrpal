@@ -1,0 +1,13 @@
+//my first palette, utilizes purple and yellow, gallery images are very bright, but the rest of the game is fine
+palet_name = "ROYALTY"
+colarray[0] = 0
+colarray[1] = 2165811
+colarray[2] = 4068198
+colarray[3] = 5379968
+colarray[4] = 9710079
+colarray[5] = 11373357
+colarray[6] = 15118857
+colarray[7] = 16776960
+colarray[8] = 16777131
+colarray[9] = 16754920
+//AUTHOR = detective_berry

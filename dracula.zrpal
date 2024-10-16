@@ -1,0 +1,14 @@
+        // colours sampled from the Dracula colour scheme
+        palet_name = "DRACULA"
+        colarray[0] = 987156
+        colarray[1] = 7459
+        colarray[2] = 3423575
+        colarray[3] = 6451875
+        colarray[4] = 12489722
+        colarray[5] = 6368843
+        colarray[6] = 12730432
+        colarray[7] = 16742596
+        colarray[8] = 7982043
+        colarray[9] = 16250866
+        break
+        //AUTHOR = gooeyPhantasm

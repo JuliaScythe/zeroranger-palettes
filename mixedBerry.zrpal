@@ -1,0 +1,14 @@
+//Bisexual-colored palette. The purple is a different hue than the flag because I personally think it looked better this way.
+palet_name = "MIXED BERRY"
+colarray[0] = 0
+colarray[1] = 2039652
+colarray[2] = 3750331
+colarray[3] = 4605653
+colarray[4] = 9211135
+colarray[5] = 3347571
+colarray[6] = 8730833
+colarray[7] = 16216005
+colarray[8] = 16236252
+colarray[9] = 16777215
+break
+//AUTHOR = meme_man_

@@ -1,0 +1,14 @@
+// A blue/magenta palette that isn't washed out. Unintentionally a near-direct inverse of STRAWBERRY CREAM (although the blue in that is more cyan).
+palet_name = "GENDER REVEAL PARTY"
+colarray[0] = 0
+colarray[1] = 921231
+colarray[2] = 2302955
+colarray[3] = 4737274
+colarray[4] = 9211135
+colarray[5] = 10682422
+colarray[6] = 15213894
+colarray[7] = 16737919
+colarray[8] = 16756925
+colarray[9] = 16777215
+break
+//AUTHOR = meme_man_

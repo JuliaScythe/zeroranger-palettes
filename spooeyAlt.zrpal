@@ -1,0 +1,14 @@
+//alt for the spooey palette, just changes the pinkish and grayish colors' places. 
+palet_name = "SPOOEY ALT"
+colarray[0] = 4656438
+colarray[1] = 11162141
+colarray[2] = 13991244
+colarray[3] = 4148557
+colarray[4] = 9737364
+colarray[5] = 3945859
+colarray[6] = 5392283
+colarray[7] = 9067658
+colarray[8] = 10910886
+colarray[9] = 4271170
+break
+//AUTHOR = linkyminky

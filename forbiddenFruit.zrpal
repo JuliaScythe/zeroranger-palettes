@@ -1,0 +1,14 @@
+// Palette originally intended as a bonus in a cancelled(?) Type-A mod.
+palet_name = "FORBIDDEN FRUIT"
+colarray[0] = 1186849
+colarray[1] = 1587288
+colarray[2] = 2642048
+colarray[3] = 4223192
+colarray[4] = 10528952
+colarray[5] = 5313671
+colarray[6] = 8935608
+colarray[7] = 15239232
+colarray[8] = 16312464
+colarray[9] = 16777215
+break
+//AUTHOR = majokkomoonie

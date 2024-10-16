@@ -1,0 +1,17 @@
+// poisonous even in small amounts if you go in for the wrong bite
+palet_name = "LOVELY NIGHTSHADE"
+colarray[0] = 1029
+colarray[1] = 1711155
+colarray[2] = 6361147
+colarray[3] = 994893
+colarray[4] = 987418
+colarray[5] = 3092838
+colarray[6] = 5195238
+colarray[7] = 7388415
+colarray[8] = 16777215
+colarray[9] = 16777215
+break
+
+// visiblity is pretty bad if you use green ship over orange ship. functional, though you also might have a hard time seeing enemies...
+// me and gooey made this palette together!
+//AUTHOR = dollsmithy&gooeyPhantasm
