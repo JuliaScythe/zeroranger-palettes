@@ -1,0 +1,14 @@
+//Palette with my favourite purple/black
+palet_name = "BLACK LAVENDER"
+colarray[0] = 0
+colarray[1] = 1116695
+colarray[2] = 2498355
+colarray[3] = 3024453
+colarray[4] = 4608092
+colarray[5] = 4267161
+colarray[6] = 7029721
+colarray[7] = 11233023
+colarray[8] = 14922751
+colarray[9] = 16777215
+break
+//AUTHOR = Ayre223
