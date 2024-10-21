@@ -24,6 +24,7 @@ Palettes contributed by:
 - Ayre223
 - detective_berry
 - dollsmithy
+- floodee
 - gaiaxyswitch
 - gooeyPhantasm
 - Jamesthe1

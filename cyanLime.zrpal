@@ -1,0 +1,15 @@
+// It came to me in a dream, a lime that is cyan.
+// And their leader is...
+palet_name = "CYAN LIME"
+colarray[0] = 0
+colarray[1] = 12871
+colarray[2] = 17741
+colarray[3] = 31887
+colarray[4] = 47308
+colarray[5] = 3823360
+colarray[6] = 5147136
+colarray[7] = 6274304
+colarray[8] = 4846848
+colarray[9] = 16777215
+break
+//AUTHOR = floodee
