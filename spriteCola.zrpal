@@ -1,0 +1,14 @@
+//wanted to make a 4 hue palette
+palet_name = "SPRITE COLA"
+colarray[0] = 0
+colarray[1] = 1836876
+colarray[2] = 2233200
+colarray[3] = 5378912
+colarray[4] = 10830491
+colarray[5] = 17476
+colarray[6] = 35136
+colarray[7] = 14850061
+colarray[8] = 16772192
+colarray[9] = 16777215
+break
+//AUTHOR = Ayre223
