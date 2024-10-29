@@ -35,6 +35,6 @@ Palettes contributed by:
 - MajokkoMoonie
 - meme_man_
 - somebirby
-- springlysunshower
+- dappled forestfloor pickings
 
 Thank you as always to System Erasure for creating ZeroRanger, and to the UndertaleModTool developers for making these kinds of mods possible.
