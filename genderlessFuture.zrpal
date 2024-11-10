@@ -1,0 +1,15 @@
+//Palette based off the agender flag for all my kinfolk
+
+palet_name = "GENDERLESS FUTURE"
+colarray[0] = 264196
+colarray[1] = 1447450
+colarray[2] = 2371116
+colarray[3] = 6381134
+colarray[4] = 11047545
+colarray[5] = 410157
+colarray[6] = 225332
+colarray[7] = 963918
+colarray[8] = 10547344
+colarray[9] = 16777215
+
+//AUTHOR: deebits

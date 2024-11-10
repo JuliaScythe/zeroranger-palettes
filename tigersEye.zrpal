@@ -1,0 +1,15 @@
+//The name actually correlates to the eye of a tiger rather than the mineral named tiger's eye. Uses every color on the spectrum but still stays readable and not too different from the original green-and-orange contrast!
+
+palet_name = "TIGERS EYE"
+colarray[0] = 66847
+colarray[1] = 6948
+colarray[2] = 13099
+colarray[3] = 21560
+colarray[4] = 2858587
+colarray[5] = 8203618
+colarray[6] = 13912687
+colarray[7] = 16741734
+colarray[8] = 16433495
+colarray[9] = 16777215
+
+//AUTHOR: deebits

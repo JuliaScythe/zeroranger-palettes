@@ -1,0 +1,15 @@
+//An inversion of DARKSUN FULLMOON, also somewhat inspired by Elden Ring
+
+palet_name = "PALESUN DARKMOON"
+colarray[0] = 590103
+colarray[1] = 1117491
+colarray[2] = 1775966
+colarray[3] = 3885980
+colarray[4] = 3901352
+colarray[5] = 6502451
+colarray[6] = 11365191
+colarray[7] = 14070870
+colarray[8] = 15130026
+colarray[9] = 16777215
+
+//AUTHOR: deebits

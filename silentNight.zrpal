@@ -1,0 +1,15 @@
+//Calmer version of HOLY DAY
+
+palet_name = "SILENT NIGHT"
+colarray[0] = 2578
+colarray[1] = 73497
+colarray[2] = 997415
+colarray[3] = 807469
+colarray[4] = 2327840
+colarray[5] = 5055022
+colarray[6] = 10561343
+colarray[7] = 16732754
+colarray[8] = 16752517
+colarray[9] = 16777215
+
+//AUTHOR: deebits

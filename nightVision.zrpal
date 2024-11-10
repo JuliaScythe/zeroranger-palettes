@@ -1,0 +1,15 @@
+//Futuristic glow-in-the-dark aesthetic with some magenta in there for good measure
+
+palet_name = "NIGHT VISION"
+colarray[0] = 1507339
+colarray[1] = 2560824
+colarray[2] = 4072542
+colarray[3] = 4673448
+colarray[4] = 6062079
+colarray[5] = 867133
+colarray[6] = 1797711
+colarray[7] = 6142565
+colarray[8] = 13168777
+colarray[9] = 16777215
+
+//AUTHOR: deebits

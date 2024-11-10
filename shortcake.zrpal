@@ -1,0 +1,15 @@
+//Palette based off the lesbian flag (true zedrank)
+
+palet_name = "SHORTCAKE"
+colarray[0] = 1310756
+colarray[1] = 3344970
+colarray[2] = 5771118
+colarray[3] = 10035087
+colarray[4] = 14570136
+colarray[5] = 8198700
+colarray[6] = 13054498
+colarray[7] = 16740669
+colarray[8] = 16759168
+colarray[9] = 16777215
+
+//AUTHOR: deebits

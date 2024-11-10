@@ -1,0 +1,15 @@
+//rosy red and beachy blue
+
+palet_name = "ROSY SANDS"
+colarray[0] = 1048609
+colarray[1] = 4328263
+colarray[2] = 8525408
+colarray[3] = 12528220
+colarray[4] = 15430757
+colarray[5] = 3481728
+colarray[6] = 4414174
+colarray[7] = 48554
+colarray[8] = 9431988
+colarray[9] = 16777215
+
+//AUTHOR: deebits

@@ -1,7 +1,7 @@
 # zeroranger-palettes
 
 <p align="center">
-A collection of over 50 palettes for the game ZeroRanger by System Erasure, for use with the ResourceManager mod. </p>
+A collection of over 70! palettes for the game ZeroRanger by System Erasure, for use with the ResourceManager mod. </p>
 
 _White_|  _Amaya_ | _Lovely Nightshade_
 -|-|-
@@ -22,6 +22,7 @@ Palettes contributed by:
 - amityrosefist
 - archiebutt
 - Ayre223
+- deebits
 - detective_berry
 - dollsmithy
 - floodee

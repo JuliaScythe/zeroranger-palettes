@@ -1,0 +1,15 @@
+//Peaceful autumnal palette!
+
+palet_name = "DYING WIND"
+colarray[0] = 4124
+colarray[1] = 4008765
+colarray[2] = 5850944
+colarray[3] = 5272931
+colarray[4] = 7647318
+colarray[5] = 6698828
+colarray[6] = 10248265
+colarray[7] = 12232504
+colarray[8] = 16763778
+colarray[9] = 16777215
+
+//AUTHOR: deebits

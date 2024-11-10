@@ -1,0 +1,15 @@
+//Palette inspired by Dark Souls III
+
+palet_name = "DARKSUN FULLMOON"
+colarray[0] = 1183250
+colarray[1] = 3348010
+colarray[2] = 6166832
+colarray[3] = 14037306
+colarray[4] = 16740403
+colarray[5] = 3686256
+colarray[6] = 3435397
+colarray[7] = 5948570
+colarray[8] = 11859374
+colarray[9] = 16777215
+
+//AUTHOR: deebits

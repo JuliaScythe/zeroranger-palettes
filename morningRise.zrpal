@@ -1,0 +1,15 @@
+//Idyllic sunrise colors!
+
+palet_name = "MORNING RISE"
+colarray[0] = 657953
+colarray[1] = 2693691
+colarray[2] = 5843271
+colarray[3] = 11031619
+colarray[4] = 15896125
+colarray[5] = 1849423
+colarray[6] = 4155732
+colarray[7] = 8502622
+colarray[8] = 16445301
+colarray[9] = 16777215
+
+//AUTHOR: deebits

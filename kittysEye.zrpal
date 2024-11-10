@@ -1,0 +1,15 @@
+//Tamer version of Tiger's Eye that aligns closer with the vanilla Green Orange palette
+
+palet_name = "KITTYS EYE"
+colarray[0] = 2063
+colarray[1] = 6679
+colarray[2] = 13094
+colarray[3] = 350525
+colarray[4] = 2136402
+colarray[5] = 7876926
+colarray[6] = 13716027
+colarray[7] = 16742471
+colarray[8] = 16434263
+colarray[9] = 16777215
+
+//AUTHOR: deebits
